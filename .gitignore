@@ -3,3 +3,5 @@
 .vscode-server
 .bash_history
 .gitconfig
+.vscode
+.python_history
