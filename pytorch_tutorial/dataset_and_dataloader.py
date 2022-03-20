@@ -1,5 +1,4 @@
-from turtle import window_width
-from pytest import skip
+
 import torch
 import torchvision
 import numpy as np
